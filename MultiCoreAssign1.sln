@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiCoreAssign1", "MultiCoreAssign1\MultiCoreAssign1.vcxproj", "{D85D6C44-E7EB-4381-9280-24332638978D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85D6C44-E7EB-4381-9280-24332638978D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D85D6C44-E7EB-4381-9280-24332638978D}.Debug|Win32.Build.0 = Debug|Win32
+		{D85D6C44-E7EB-4381-9280-24332638978D}.Release|Win32.ActiveCfg = Release|Win32
+		{D85D6C44-E7EB-4381-9280-24332638978D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
